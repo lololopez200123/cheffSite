@@ -1,0 +1,22 @@
+{
+  "name": "cheff-web",
+  "version": "1.0.0",
+  "description": "web de portfolio - brand cheff",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lololopez200123/cheffSite.git"
+  },
+  "author": "Lorenzo Lopez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lololopez200123/cheffSite/issues"
+  },
+  "homepage": "https://github.com/lololopez200123/cheffSite#readme",
+  "dependencies": {
+    "sass": "^1.32.12"
+  }
+}

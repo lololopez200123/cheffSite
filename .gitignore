@@ -1,0 +1,14 @@
+# Dependency directories
+node_modules/
+jspm_packages/
+
+# Optional eslint cache
+.eslintcache
+
+# dotenv environment vagitriables file
+.env
+.env.test
+
+# scss file
+.sass-cache/
+*.css.map
